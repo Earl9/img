@@ -1,0 +1,8 @@
+||detail.taobao.com^
+||amdc.m.taobao.com^
+||amdcopen.m.taobao.com^
+||audid-api-sg.taobao.com^
+||audid-api.taobao.com^
+||baidu-taobao-av.com^
+||detail.taobao.com^
+||dsp.simba.taobao.com^
